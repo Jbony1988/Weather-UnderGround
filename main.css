@@ -1,0 +1,60 @@
+body {
+  font-family: sans-serif;
+  width: 800px;
+  font-size: 3em;
+  margin: auto;
+  background-image: url(background.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+
+#weather {
+  margin-top:100px;
+}
+#temp {
+  font-weight: bold;
+
+
+}
+#temp:hover {
+  background: yellow;
+  cursor: pointer;
+
+}
+#wind {
+  font-style: italic;
+
+}
+
+
+
+
+.center{
+  text-align: center;
+  font-size: 36px;
+  font-weight: 800;
+}
+
+.weather-title{
+  text-align: center;
+  color: white;
+  font-weight: 800;
+  font-size: 48px;
+}
+
+.weather-title2{
+  text-align: center;
+
+}
+
+.back{
+  font-size: 24px;
+}
+
+.margin{
+  text-align: center;
+  margin-top: 20px;
+
+
+}
